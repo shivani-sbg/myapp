@@ -1,0 +1,22 @@
+.app {
+  font-family: quicksand;
+  height: 100vh; /* Full viewport height */
+  width: 100%;
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  align-items: center; /* Center horizontally */
+  justify-content: flex-start; /* Align to the top */
+  padding-top: 10px; /* Optional: Add some spacing from the top */
+  background-color: rgb(17, 247, 247);
+}
+
+.input {
+  font-family: quicksand;
+  color: black;
+  font-size: medium;
+  border: 1px solid black;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
